@@ -1,0 +1,14 @@
+D:\Github\Programacion II\Ejemplos de final\obj\Debug\netcoreapp3.1\Ejemplos de final.csproj.AssemblyReference.cache
+D:\Github\Programacion II\Ejemplos de final\obj\Debug\netcoreapp3.1\Ejemplos de final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Programacion II\Ejemplos de final\obj\Debug\netcoreapp3.1\Ejemplos de final.AssemblyInfoInputs.cache
+D:\Github\Programacion II\Ejemplos de final\obj\Debug\netcoreapp3.1\Ejemplos de final.AssemblyInfo.cs
+D:\Github\Programacion II\Ejemplos de final\obj\Debug\netcoreapp3.1\Ejemplos de final.csproj.CoreCompileInputs.cache
+D:\Github\Programacion II\Ejemplos de final\bin\Debug\netcoreapp3.1\Ejemplos de final.exe
+D:\Github\Programacion II\Ejemplos de final\bin\Debug\netcoreapp3.1\Ejemplos de final.deps.json
+D:\Github\Programacion II\Ejemplos de final\bin\Debug\netcoreapp3.1\Ejemplos de final.runtimeconfig.json
+D:\Github\Programacion II\Ejemplos de final\bin\Debug\netcoreapp3.1\Ejemplos de final.runtimeconfig.dev.json
+D:\Github\Programacion II\Ejemplos de final\bin\Debug\netcoreapp3.1\Ejemplos de final.dll
+D:\Github\Programacion II\Ejemplos de final\bin\Debug\netcoreapp3.1\Ejemplos de final.pdb
+D:\Github\Programacion II\Ejemplos de final\obj\Debug\netcoreapp3.1\Ejemplos de final.dll
+D:\Github\Programacion II\Ejemplos de final\obj\Debug\netcoreapp3.1\Ejemplos de final.pdb
+D:\Github\Programacion II\Ejemplos de final\obj\Debug\netcoreapp3.1\Ejemplos de final.genruntimeconfig.cache

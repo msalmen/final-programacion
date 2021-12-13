@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pixelflux\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pixelflux\\.nuget\\packages"
+    ]
+  }
+}
